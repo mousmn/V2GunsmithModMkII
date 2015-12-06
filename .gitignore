@@ -1,3 +1,4 @@
+*~
 .classpath
 .gradle/
 .project
@@ -11,3 +12,5 @@ bin/
 build/
 eclipse/
 forge-*-changelog.txt
+src/main/java/com/example
+
